@@ -172,3 +172,7 @@ cython_debug/
 
 # add the venv folder to the gitignore
 dataset_env/
+venv/
+env/
+.env/
+.venv/
